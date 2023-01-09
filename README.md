@@ -1,3 +1,6 @@
+Thanks to Restful Coder for the inspration and  help to prepare this project.
+https://www.youtube.com/watch?v=yCEIgEOZ36g
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
